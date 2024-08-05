@@ -1,0 +1,7 @@
+C:\Users\pugpl\source\repos\FiapHelloWorld\FiapHelloWorld\bin\Debug\FiapHelloWorld.exe.config
+C:\Users\pugpl\source\repos\FiapHelloWorld\FiapHelloWorld\bin\Debug\FiapHelloWorld.exe
+C:\Users\pugpl\source\repos\FiapHelloWorld\FiapHelloWorld\bin\Debug\FiapHelloWorld.pdb
+C:\Users\pugpl\source\repos\FiapHelloWorld\FiapHelloWorld\obj\Debug\FiapHelloWorld.csproj.AssemblyReference.cache
+C:\Users\pugpl\source\repos\FiapHelloWorld\FiapHelloWorld\obj\Debug\FiapHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\pugpl\source\repos\FiapHelloWorld\FiapHelloWorld\obj\Debug\FiapHelloWorld.exe
+C:\Users\pugpl\source\repos\FiapHelloWorld\FiapHelloWorld\obj\Debug\FiapHelloWorld.pdb
