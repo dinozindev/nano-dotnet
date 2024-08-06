@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|c:\\users\\pugpl\\source\\repos\\fiaphelloworld\\fiaphelloworld\\models\\cursoferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|solutionrelative:fiaphelloworld\\models\\cursoferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|c:\\users\\pugpl\\source\\repos\\fiaphelloworld\\fiaphelloworld\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|solutionrelative:fiaphelloworld\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|c:\\users\\pugpl\\source\\repos\\fiaphelloworld\\fiaphelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|solutionrelative:fiaphelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|c:\\users\\pugpl\\source\\repos\\fiaphelloworld\\fiaphelloworld\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\fiaphelloworld\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE5C256C-F1DB-4BD9-A2CB-992DC56CFAB6}|FiapHelloWorld\\FiapHelloWorld.csproj|solutionrelative:fiaphelloworld\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CursoFerias.cs",
+              "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\FiapHelloWorld\\Models\\CursoFerias.cs",
+              "RelativeDocumentMoniker": "FiapHelloWorld\\Models\\CursoFerias.cs",
+              "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\FiapHelloWorld\\Models\\CursoFerias.cs",
+              "RelativeToolTip": "FiapHelloWorld\\Models\\CursoFerias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:30:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\FiapHelloWorld\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "FiapHelloWorld\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\FiapHelloWorld\\Models\\Curso.cs",
+              "RelativeToolTip": "FiapHelloWorld\\Models\\Curso.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwC4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:06:05.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HelloModel.cs",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\FiapHelloWorld\\Models\\HelloModel.cs",
               "RelativeDocumentMoniker": "FiapHelloWorld\\Models\\HelloModel.cs",
               "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\FiapHelloWorld\\Models\\HelloModel.cs",
               "RelativeToolTip": "FiapHelloWorld\\Models\\HelloModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T20:39:06.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\FiapHelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "FiapHelloWorld\\Program.cs",
               "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapHelloWorld\\FiapHelloWorld\\Program.cs",
               "RelativeToolTip": "FiapHelloWorld\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwEAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T20:17:07.394Z",
               "EditorCaption": ""
