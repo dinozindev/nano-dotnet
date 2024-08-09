@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.23.50, )"
+            },
             "Oracle.ManagedDataAccess.Core": {
               "target": "Package",
               "version": "[23.5.0, )"
