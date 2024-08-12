@@ -24,6 +24,71 @@ namespace FiapSmartCity.Repository
             return context.TipoProduto.ToList();
         }
 
+        public IList<TipoProduto> ListarOrdenadoPorNome()
+        {
+            var lista =
+                context.TipoProduto.OrderBy(t => t.DescricaoTipo).ToList<TipoProduto>();
+
+            return lista;
+        }
+
+        public IList<TipoProduto> ListarOrdenadoPorNomeDescendente()
+        {
+            var lista =
+                context.TipoProduto.OrderByDescending(t => t.DescricaoTipo).ToList<TipoProduto>();
+
+            return lista;
+        }
+
+        public IList<TipoProduto> ListarTiposComercializados()
+        {
+            // Filtro com Where
+            var lista =
+                context.TipoProduto.Where(t => t.Comercializado == '0')
+                        .OrderByDescending(t => t.DescricaoTipo).ToList<TipoProduto>();
+
+            return lista;
+        }
+
+        public IList<TipoProduto> ListarTiposComercializadosCriterio(char selecao)
+        {
+            // Filtro com Where
+            var lista =
+                context.TipoProduto.Where(t => t.Comercializado == selecao)
+                        .OrderByDescending(t => t.DescricaoTipo).ToList<TipoProduto>();
+
+            return lista;
+        }
+
+        public IList<TipoProduto> ListarTiposComercializados(char selecao)
+        {
+            // Filtro com Where
+            var lista =
+                context.TipoProduto.Where(t => t.Comercializado == selecao && t.IdTipo > 2)
+                        .OrderByDescending(t => t.DescricaoTipo).ToList<TipoProduto>();
+
+            return lista;
+        }
+
+        public TipoProduto ConsultaPorDescricao(string descricao)
+        {
+            // Retorno único
+            TipoProduto tipo =
+                context.TipoProduto.Where(t => t.DescricaoTipo == descricao)
+                    .FirstOrDefault<TipoProduto>();
+
+            return tipo;
+        }
+
+        public IList<TipoProduto> ListarTiposParteDescricao(string parteDescricao)
+        {
+            // Filtro com Where e Contains
+            var lista =
+                context.TipoProduto.Where(t => t.DescricaoTipo.Contains(parteDescricao))
+                        .ToList<TipoProduto>();
+
+            return lista;
+        }
 
         public TipoProduto Consultar(int id)
         {

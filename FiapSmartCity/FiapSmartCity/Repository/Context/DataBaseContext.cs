@@ -13,6 +13,7 @@ namespace FiapSmartCity.Repository.Context
     {
 
         public DbSet<TipoProduto> TipoProduto { get; set; }
+        public DbSet<Produto> Produto { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

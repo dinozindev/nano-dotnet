@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -9,7 +10,6 @@ namespace FiapSmartCity.Models
     {
         [Key]
         [Column("IDTIPO")]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int IdTipo { get; set; }
 
         [Required(ErrorMessage = "Descrição obrigatória!")]
@@ -19,7 +19,10 @@ namespace FiapSmartCity.Models
         public String DescricaoTipo { get; set; }
 
         [Column("COMERCIALIZADO")]
-        public bool Comercializado { get; set; }
+        public char Comercializado { get; set; }
+
+        //Navigation Property
+        public IList<Produto> Produtos { get; set; }
 
     }
 }

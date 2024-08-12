@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|c:\\users\\pugpl\\source\\repos\\fiapsmartcity\\fiapsmartcity\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|solutionrelative:fiapsmartcity\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|c:\\users\\pugpl\\source\\repos\\fiapsmartcity\\fiapsmartcity\\repository\\tipoprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|solutionrelative:fiapsmartcity\\repository\\tipoprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|c:\\users\\pugpl\\source\\repos\\fiapsmartcity\\fiapsmartcity\\models\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|solutionrelative:fiapsmartcity\\models\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|c:\\users\\pugpl\\source\\repos\\fiapsmartcity\\fiapsmartcity\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|solutionrelative:fiapsmartcity\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DAFBD9D-D470-4564-BAF6-465F54A47C4D}|FiapSmartCity\\FiapSmartCity.csproj|c:\\users\\pugpl\\source\\repos\\fiapsmartcity\\fiapsmartcity\\repository\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,37 +50,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "FiapSmartCity\\Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "FiapSmartCity\\Repository\\ProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:42:39.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "FiapSmartCity\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Models\\Produto.cs",
+              "RelativeToolTip": "FiapSmartCity\\Models\\Produto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:41:02.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Models\\TipoProduto.cs",
+              "RelativeDocumentMoniker": "FiapSmartCity\\Models\\TipoProduto.cs",
+              "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Models\\TipoProduto.cs",
+              "RelativeToolTip": "FiapSmartCity\\Models\\TipoProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:36:16.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TipoProdutoRepository.cs",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Repository\\TipoProdutoRepository.cs",
               "RelativeDocumentMoniker": "FiapSmartCity\\Repository\\TipoProdutoRepository.cs",
               "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Repository\\TipoProdutoRepository.cs",
               "RelativeToolTip": "FiapSmartCity\\Repository\\TipoProdutoRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T19:10:01.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DataBaseContext.cs",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Repository\\Context\\DataBaseContext.cs",
               "RelativeDocumentMoniker": "FiapSmartCity\\Repository\\Context\\DataBaseContext.cs",
               "ToolTip": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Repository\\Context\\DataBaseContext.cs",
               "RelativeToolTip": "FiapSmartCity\\Repository\\Context\\DataBaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T18:43:05.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\appsettings.json",
               "RelativeDocumentMoniker": "FiapSmartCity\\appsettings.json",
@@ -76,12 +127,11 @@
               "RelativeToolTip": "FiapSmartCity\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-08T22:52:04.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T22:52:04.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Startup.cs",
               "RelativeDocumentMoniker": "FiapSmartCity\\Startup.cs",
@@ -89,12 +139,11 @@
               "RelativeToolTip": "FiapSmartCity\\Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T23:48:25.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T23:48:25.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Views\\TipoProduto\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "FiapSmartCity\\Views\\TipoProduto\\Cadastrar.cshtml",
@@ -102,12 +151,11 @@
               "RelativeToolTip": "FiapSmartCity\\Views\\TipoProduto\\Cadastrar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwDMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T23:05:57.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T23:05:57.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Views\\TipoProduto\\Index.cshtml",
               "RelativeDocumentMoniker": "FiapSmartCity\\Views\\TipoProduto\\Index.cshtml",
@@ -115,12 +163,11 @@
               "RelativeToolTip": "FiapSmartCity\\Views\\TipoProduto\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T23:04:14.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T23:04:14.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pugpl\\source\\repos\\FiapSmartCity\\FiapSmartCity\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FiapSmartCity\\Views\\Shared\\_Layout.cshtml",
@@ -128,8 +175,7 @@
               "RelativeToolTip": "FiapSmartCity\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAIBZwDMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T22:44:52.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T22:44:52.738Z"
             }
           ]
         }
